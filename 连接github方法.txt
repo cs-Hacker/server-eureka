@@ -1,0 +1,5 @@
+连接git仓库
+git remote add origin git@github.com:cs-Hacker/server-eureka.git
+如果远程master，在push的时候需要创建远程master，不能直接执行git push
+git push -u origin master
+haha
